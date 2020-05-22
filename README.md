@@ -3,6 +3,7 @@ Interprets A86 assembly codes.
 
 ## Registers Supported
 16-bit registers: AX, BX, CX, DX, DI, SP, SI, BP.
+
 8-bit registers:  AH, AL, BH, BL, CH, CL, DH, DL
 
 ## Instructions Supported
