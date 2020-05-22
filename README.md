@@ -2,7 +2,7 @@
 Interprets A86 assembly
 
 ## Usage
-program.exe "test file path"
+program.exe "test-file-path"
 
 ## Code Quality
 This project is an assignment given to the students one of which is me. Thus, the code quality and optimizations might be not ideal.
