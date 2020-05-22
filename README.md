@@ -13,7 +13,7 @@ MOV, ADD, SUB, MUL, DIV, XOR, OR, AND, NOT, RCL, RCR, SHL, SHR, PUSH, POP, NOP, 
 program.exe "test-file-path"
 
 ## Code Quality
-This project is an assignment given to the students one of which is me. Thus, the code quality and optimizations might be not ideal.
+This project is an assignment given to the students one of which is me. Thus, the code quality and optimizations might be not ideal. I was sophomore by the time, 2020, second term.
 
 ## Tests
 The tests are written by Abdüllatif Köksal (https://github.com/akoksal)
