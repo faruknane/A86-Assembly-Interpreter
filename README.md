@@ -1,6 +1,10 @@
 # A86-Assembly-Interpreter
 Interprets A86 assembly codes.
 
+## Registers Supported
+16-bit registers: AX, BX, CX, DX, DI, SP, SI, BP.
+8-bit registers:  AH, AL, BH, BL, CH, CL, DH, DL
+
 ## Instructions Supported
 MOV, ADD, SUB, MUL, DIV, XOR, OR, AND, NOT, RCL, RCR, SHL, SHR, PUSH, POP, NOP, CMP, JZ, JNZ, JE, JNE, JA, JAE, JB, JBE, JNAE, JNB, JNBE, JNC, JC, PUSH, POP, INT	20h, RCL, RCR, SHL, SHR, NOP
 
