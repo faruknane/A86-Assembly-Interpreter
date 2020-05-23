@@ -1,5 +1,5 @@
-# A86-Assembly-Interpreter
-Interprets A86 assembly codes.
+# A86/HYP86-Assembly-Interpreter
+Interprets A86 / HYP86 assembly codes.
 
 ## Registers Supported
 16-bit registers: AX, BX, CX, DX, DI, SP, SI, BP.
