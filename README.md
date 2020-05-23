@@ -9,6 +9,9 @@ Interprets A86 assembly codes.
 ## Instructions Supported
 MOV, ADD, SUB, MUL, DIV, XOR, OR, AND, NOT, RCL, RCR, SHL, SHR, PUSH, POP, NOP, CMP, JZ, JNZ, JE, JNE, JA, JAE, JB, JBE, JNAE, JNB, JNBE, JNC, JC, PUSH, POP, INT	20h, RCL, RCR, SHL, SHR, NOP
 
+## Flags Supported
+ZF zero flag, CF carry flag, AF auxillary flag, SF sign flag , OF overflow flag.
+
 ## Usage
 program.exe "test-file-path"
 
