@@ -1,4 +1,4 @@
-# A86/HYP86-Assembly-Interpreter
+# A86/HYP86-Assembly-Interpreter <img src="https://user-images.githubusercontent.com/37745467/113457878-a5b30c00-9419-11eb-9f75-3b0126ac31a6.png" width="44">
 Interprets A86 / HYP86 assembly codes.
 
 ## Registers Supported
